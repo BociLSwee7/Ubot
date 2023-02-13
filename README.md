@@ -1,19 +1,9 @@
-<p align="center">
-  <img src="./resources/extras/logo.jpg" alt="Kazu Logo">
-</p>
 <h1 align="center">
-  <b>ᴋᴀᴢᴜ ꭙ ᴜʙᴏᴛ​</b>
+  <b>ᴜʙᴏᴛ​</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon and Pyrogram.</b>
 
-<a href="https://github.com/ionmusic/Kazu-Ubot/commits"> <img src="https://img.shields.io/github/last-commit/ionmusic/Kazu-Ubot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ionmusic/Kazu-Ubot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/ionmusic/Kazu-Ubot/graphs/commit-activity)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/ionmusic/Kazu-Ubot/dashboard)
-[![GitHub Forks](https://img.shields.io/github/forks/ionmusic/Kazu-Ubot?&logo=github)](https://github.com/ionmusic/Kazu-Ubot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/ionmusic/Kazu-Ubot?&logo=github)](https://github.com/ionmusic/Kazu-Ubot/stargazers)
-----
 
 ## Disclaimer
 
@@ -43,9 +33,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 • `pip install pyUltroid`
 
- • `git clone https://github.com/ionmusic/Kazu-Ubot`
+ • `git clone https://github.com/BociLSwee7/Ubot`
 
- • `cd Kazu-Ubot`
+ • `cd Ubot`
 
  • `pip3 install requirements.txt`
  
@@ -59,7 +49,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
   - ketik ctrl + S
   - ctrl + X
 
- • `screen -S Kazu`
+ • `screen -S Ubot`
 
  • `bash startup`
 
@@ -81,6 +71,3 @@ Kazu is licensed under [GNU Affero General Public License](https://www.gnu.org/l
 * [![[𝐙𝐚𝐞𝐧]ꗈ‽ ⁪⁬⁮⁮⁮](https://img.shields.io/static/v1?label=[𝐙𝐚𝐞𝐧]&message=ꗈ‽&color=critical)](https://t.me/TeleUdahRusak)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
-
-> Kanged by
-* [![Kazu](https://img.shields.io/static/v1?label=Kazu&message=ꭙ&color=critical)](https://t.me/disinikazu)
