@@ -1,7 +1,7 @@
 {
   "name": "BociLSwee7 Ubot",
   "description": "Pluggable telegram userbot, made in python using Telethon.",
-  "logo": "https://telegra.ph/file/e2f568b76280fadc8ee54.jpg",
+  "logo": "https://i.postimg.cc/vTpCvvtw/IMG-20220824-004302-099.jpg",
   "stack": "container",
   "env": {
     "API_ID": {
